@@ -1,2 +1,2 @@
 # hello-world
-test repository
+This is some more info about the readme.  Currently testing.
